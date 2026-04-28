@@ -1,4 +1,4 @@
-package com.quicknoteapp
+package com.quicknoteapp;
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
