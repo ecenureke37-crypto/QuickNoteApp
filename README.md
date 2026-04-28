@@ -15,3 +15,20 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
    ```bash
    git clone [https://github.com/ecenureke37-crypto/QuickNoteApp.git](https://github.com/ecenureke37-crypto/QuickNoteApp.git)
    cd QuickNoteApp
+   ```
+2. **Bağımlılıkları Yükleyin:**
+   ```bash
+   npm install
+   ```
+ 3. **Uygulamayı Başlatın (Android):
+    Öncelikle Android emülatörünüzün açık olduğundan emin olun, ardından terminalde şu komutu çalıştırın:**
+    ```bash
+    npx react-native run-android
+    ```
+    Kullanılan Teknolojiler
+    
+   * React Native CLI
+
+   * React Navigation
+
+   * React Hooks (useState)
