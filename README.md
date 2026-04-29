@@ -13,7 +13,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 
 1. **Projeyi Klonlayın:**
    ```bash
-   git clone [https://github.com/ecenureke37-crypto/QuickNoteApp.git](https://github.com/ecenureke37-crypto/QuickNoteApp.git)
+   git  clone https://github.com/ecenureke37-crypto/QuickNoteApp.git
    cd QuickNoteApp
    ```
 2. **Bağımlılıkları Yükleyin:**
